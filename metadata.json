@@ -1,0 +1,6 @@
+{
+  "name": "Hayya Nata'allam! — Portal E-LKPD Bahasa Arab Kelas VII MTs",
+  "description": "Portal integrasi E-LKPD Bahasa Arab Kelas VII Madrasah Tsanawiyah berbasis pembelajaran berdiferensiasi (Low, Middle, dan High).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
